@@ -105,3 +105,6 @@ commit: Documentação final
 - Projeto pronto para apresentação
 
 Desenvolvido por Equipe do Projeto Integrador — Computação 1 – Engenharia Mecânica
+
+LINK DE ACESSO PARA O COLAB ABAIXO
+https://colab.research.google.com/drive/1J73VYqTsjKykmYVXLuYyZJa06A0FDPw5?authuser=0#scrollTo=ZDlsZh4LDVjH
