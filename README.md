@@ -107,4 +107,4 @@ commit: Documentação final
 Desenvolvido por Equipe do Projeto Integrador — Computação 1 – Engenharia Mecânica
 
 LINK DE ACESSO PARA O COLAB ABAIXO
-https://colab.research.google.com/drive/1J73VYqTsjKykmYVXLuYyZJa06A0FDPw5?authuser=0#scrollTo=ZDlsZh4LDVjH
+https://colab.research.google.com/drive/1C0snwrpYBnytH0vr100TOK9bEaYqLZxO?authuser=2#scrollTo=9kmTZPP3vvG3
