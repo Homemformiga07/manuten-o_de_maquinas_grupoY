@@ -103,7 +103,7 @@ commit: Documentação final
 - Notebook Colab adicionado
 - Projeto pronto para apresentação
 
-Desenvolvido por Equipe do Projeto Integrador — Computação 1 – Engenharia Mecânica
+Desenvolvido por Luigi Sgarbossa, Artur Beledelli, Henrique Weiber, Matheus Iansen — Computação 1 – Engenharia Mecânica
 
 LINK DE ACESSO PARA O COLAB ABAIXO
 https://colab.research.google.com/drive/1C0snwrpYBnytH0vr100TOK9bEaYqLZxO?authuser=2#scrollTo=9kmTZPP3vvG3
