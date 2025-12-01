@@ -3,37 +3,37 @@
  -Cadastro de máquinas
 
 -Código da máquina
-Nome
-Ano
-Estado (ativa / inativa)
+Nome,
+Ano,
+Estado (ativa / inativa),
 
  -Registro de manutenções
 
 Tipo de manutenção
-Data
-Máquina associada
-Responsável
-Observações
+Data,
+Máquina associada,
+Responsável,
+Observações,
 
  -Listagem
 
-Máquinas cadastradas
-Manutenções registradas
-Relatório geral
+Máquinas cadastradas,
+Manutenções registradas,
+Relatório geral,
 
  -Módulo Extra nº 2 — Cálculo de Custos
 
 O sistema calcula automaticamente:
-Custo total de cada manutenção
-Custos acumulados por máquina
-Relatório geral de gastos da planta
+Custo total de cada manutenção,
+Custos acumulados por máquina,
+Relatório geral de gastos da planta,
 
  -Execução do Projeto
 
 1. No Google Colab
 Faça upload de: manutencao_maquinas.py
 pasta dados/
-notebook_colab.ipynb
+notebook_colab.ipynb,
 Execute o notebook.
 
 2. Localmente (Windows/Linux)
@@ -42,7 +42,7 @@ python manutencao_maquinas.py
  Histórico Completo de Commits 
 
  -AULA 1 — Estrutura Inicial
-commit: Inicialização do repositório
+commit: Inicialização do repositório,
 - Criação da pasta do projeto
 - Adicionado arquivo README.md inicial
 
