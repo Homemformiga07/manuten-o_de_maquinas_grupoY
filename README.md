@@ -4,7 +4,6 @@
 
 -Código da máquina
 Nome
-Fabricante
 Ano
 Estado (ativa / inativa)
 
